@@ -16,6 +16,9 @@ Here are my favourite hobbies:
 - :drum: Music
 - :mountain: Travelling
 
+My favorite band is [Dewolff](https://www.dewolff.nu/#/home).
+
+
 Here's a picture from my last trip.
 
 ![IMG_0197](https://user-images.githubusercontent.com/115343305/196197067-068001d7-30db-42ef-98bc-f513ab17fa80.jpg)
