@@ -1,4 +1,4 @@
-## Hello dear visitor :wave:
+# Hello dear visitor :wave:
 
-#welcome to my github Profile
+## welcome to my github Profile
 
