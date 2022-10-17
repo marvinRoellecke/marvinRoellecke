@@ -7,14 +7,14 @@ Today (17.10.22) I joined the **neuefische** *Web Development Boot Camp* to incr
 Let's see where it ends...
 
 Here are my favourite hobbies:
-- Cycling
-- Tennis
-- Volleyball
-- Basketball
+- :biking_man: Cycling
+- :tennis: Tennis
+- :volleyball: Volleyball
+- :basketball: Basketball
 
-- Surfing
-- Music
-- Travelling
+- :surfing_man: Surfing
+- :drum: Music
+- :mountain: Travelling
 
 Here's a picture from my last trip.
 
