@@ -11,5 +11,12 @@ Here are my favourite hobbies:
 - Tennis
 - Volleyball
 - Basketball
+
 - Surfing
 - Music
+- Travelling
+
+Here's a picture from my last trip.
+
+![IMG_0197](https://user-images.githubusercontent.com/115343305/196197067-068001d7-30db-42ef-98bc-f513ab17fa80.jpg)
+
