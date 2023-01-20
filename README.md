@@ -1,26 +1,15 @@
 # Hello dear visitor :wave:
 
-## and welcome to my github profile
+### and welcome to my github profile
 
-My name is Marvin I am 30 years old and based in Kalkar. After travelling across Europe for my last job, I decided to quit and start a new journey.
-Today (17.10.22) I joined the **neuefische** *Web Development Boot Camp* to increase my coding skills.
-Let's see where it ends...
+My name is Marvin I am 30 years old and based in Kalkar (North Rhine-Westphalia) 
 
-Here are my favourite hobbies:
-- :biking_man: Cycling
-- :tennis: Tennis
-- :volleyball: Volleyball
-- :basketball: Basketball
+During my time as project manager and field-engineer I gained wide operating experience working with international teams and customers. 
+I made the decision to start a new career path as Web Developer and joined the **neuefische** *Web Development Boot Camp*.
+After completing the bootcamp I'm happy I did.
 
-- :surfing_man: Surfing
-- :drum: Music
-- :mountain: Travelling
+### please have a look at my recent repositories:
+- [localSports - capstone project](https://github.com/marvinRoellecke/capstone-project-ts)
+- [SALT-test](https://github.com/marvinRoellecke/SALT-test)
 
-My favorite band is [DeWolff](https://www.dewolff.nu/#/home).
-Check them out!
-
-
-Here's a picture from my last trip.
-
-![IMG_0197](https://user-images.githubusercontent.com/115343305/196197067-068001d7-30db-42ef-98bc-f513ab17fa80.jpg)
-
+The other repositories are not relevant and do not represent my skill level, but they show my progress over the time..
